@@ -1,5 +1,3 @@
-:penguin: Experienced Linux systems engineer, coding mostly in Python and Go
+Linux systems engineer and SRE, coding mostly in Python and Go; occasionally Rust, C++, and C
 
-:musical_note: Side interest in signal processing for audio and music, and its intersection with AI
-
-:brain: My favorite topic is music demixing (:heart: [MDX](https://mdx-workshop.github.io/))
+Many of my projects involve signal processing for music applications
