@@ -1,4 +1,6 @@
-Try some of the best drums and bass stem separation available today: https://pro.freemusicdemixer.com/
+Demucs free and unlimited in your browser: https://freemusicdemixer.com
+
+Try some of the best drums and bass stem separation available today: https://pro.freemusicdemixer.com
 
 Demucs in your pocket! Download the Android app today:
 <br>
