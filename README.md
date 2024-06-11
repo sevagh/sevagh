@@ -1,5 +1,5 @@
-Demucs free and unlimited in your browser: https://freemusicdemixer.com
-
-Try some of the best drums and bass stem separation available today: https://pro.freemusicdemixer.com
-
-Demucs in your pocket! Download the [Android app from the Google Play Store](https://play.google.com/store/apps/details?id=com.freemusicdemixer.pro)
+* [sevagy.xyz](https://sevag.xyz): blog and personal site
+* [freemusicdemixer.com](https://freemusicdemixer.com): free and unlimited Demucs in your browser with WebAssembly
+* [pro.freemusicdemixer.com](https://pro.freemusicdemixer.com): top-quality stem separation in your browser and Android phone
+* [Music Demixer app on Play Store](https://play.google.com/store/apps/details?id=com.freemusicdemixer.pro): Demucs in your pocket!
+* [metalgroove.xyz](https://metalgroove.xyz): metal-related projects in groove, rhythm, beat, tempo, etc.
